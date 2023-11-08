@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scormeet
 - 👀 I’m interested in Artificial Intelligence and Deep Learning.
-- 💻 I’m currently working as a Solution Engineer and Architect at GenO Oracle Internship Program
+- 💻 I’m currently working as an Associate Consultant at Oracle
 - 💞️ I’m looking to collaborate on Computer Vision and Cloud Computing.
 - 📫 You can reach me by email at sbenitezr1@gmail.com or Linkedin at https://www.linkedin.com/in/sergiobenitezramirez/
 
